@@ -1,4 +1,4 @@
-<img src="https://new.express.adobe.com/id/urn:aaid:sc:EU:7a8f9902-8bf8-4dba-a06e-7f479ca69724?invite=true&promoid=Z2G1FQKR&mv=other">
+<img src="https://cdn.discordapp.com/attachments/1100783733134598246/1262800746336882840/github-banner.mp4?ex=6697ea57&is=669698d7&hm=2b4e2ef5e81e24048e17a3fe9729dc31299ad95c263a8f00274f40781003ad9c&">
 
 <h1 align="center">Hi 👋, I'm Englezuu</h1>
 <h3 align="left">✅ I'm a teen budding developer from Romania. At the moment I focus on the creation/modification/optimization/enrichment from a technical point of view of game servers: FiveM & Minecraft</h3>
