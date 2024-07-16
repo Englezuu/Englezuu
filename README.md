@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Englezuu</h1>
-<h3 align="center">I am a budding developer.</h3>
+<h3 align="left">I am a budding developer, focusing on developing server's games!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=englezuu" alt="englezuu" /></a> </p>
 
