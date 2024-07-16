@@ -1,9 +1,11 @@
+<img src="https://new.express.adobe.com/id/urn:aaid:sc:EU:7a8f9902-8bf8-4dba-a06e-7f479ca69724?invite=true&promoid=Z2G1FQKR&mv=other">
+
 <h1 align="center">Hi 👋, I'm Englezuu</h1>
 <h3 align="left">✅ I'm a teen budding developer from Romania. At the moment I focus on the creation/modification/optimization/enrichment from a technical point of view of game servers: FiveM & Minecraft</h3>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=englezuu" alt="englezuu" /></a> --> </p>
 
-<h3 aling="left">🎇 Also I'm a very good Lua Developer! I prefer to make scripts from 0 and if the scripts are made by a other developer I don't like to change them because for me trying to understand how another developer worked is not a fun thing, because every developer has his own code style regardless of whether it's the same programming language!</h3>
+<h3 aling="left">🎇 Also I'm a very good Lua Developer! I prefer to make scripts from 0 and if the scripts are made by a other developer I don't like to change or rewrite them because for me trying to understand how another developer worked is not a fun thing, because every developer has his own code style regardless of whether it's the same programming language!</h3>
 - 🔭 I’m currently working on [GTA5:MP UnderZone RolePlay](https://discord.gg/uzrp)
 
 <h3 align="left">Connect with me:</h3>
