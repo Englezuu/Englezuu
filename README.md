@@ -16,7 +16,7 @@
 <a href="https://www.youtube.com/c/englezuu2747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="englezuu2747" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Contact me:</h3>
+<h1 align="left">Contact me:</h3>
 <p align="left">Discord: englezuu.</p>
 
 
